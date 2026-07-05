@@ -1,4 +1,5 @@
 # Tóth Bence – AI tanácsadó | weboldal
+Frissítés: Calendly link beállítva.
 
 Statikus, egyoldalas landing page (tiszta HTML/CSS/JS, build lépés nélkül), Vercelre optimalizálva.
 
